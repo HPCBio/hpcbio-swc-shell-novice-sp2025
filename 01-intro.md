@@ -17,9 +17,6 @@ exercises: 0
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-### Quick Test
-
-Quick test to see if this updates on webpage.
 
 ### Background
 
