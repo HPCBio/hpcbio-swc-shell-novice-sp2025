@@ -18,6 +18,13 @@ exercises: 0
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
+### HPCBio Notes
+If you're signed up for an HPCBio workshop, **this episode/chapter is required** reading. You may watch a recording of this episode by viewing the video named "XYZ" on our video playlist. Please see your email for a URL to the playlist.
+
+Please note that these materials were imported and modified from the Software Carpentry "shell-novice" repository. 
+Their original CC license can be found [here](https://software-carpentry.org/license/). 
+Software Carpentry does not endorse HPCBio's version of this lesson. 
+
 ### Background
 
 Humans and computers commonly interact in many different ways, such as through a keyboard and mouse,
