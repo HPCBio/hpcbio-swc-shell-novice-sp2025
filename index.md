@@ -12,6 +12,10 @@ Use of the shell is fundamental to a wide range of advanced computing
 tasks, including high-performance computing. These lessons will introduce
 you to this powerful tool.
 
+Please note that these materials were imported and modified from the Software Carpentry [shell-novice](https://github.com/swcarpentry/shell-novice/tree/main) repository.
+The original Creative Commons license can be found [here](https://software-carpentry.org/license/).
+Software Carpentry does not endorse HPCBio's version of this lesson.
+
 ::::::::::::::::::::::::::::::::::::::::::  prereq
 
 ## Prerequisites

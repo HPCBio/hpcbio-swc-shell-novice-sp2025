@@ -19,11 +19,9 @@ exercises: 0
 
 
 ### HPCBio Notes
-If you're signed up for an HPCBio workshop, **this episode/chapter is required** reading. You may watch a recording of this episode by viewing the video named "XYZ" on our video playlist. Please see your email for a URL to the playlist.
+If you're signed up for an HPCBio workshop, **this episode/chapter is required** reading. 
+You may watch a recording of this episode by viewing the video named "Episode 1: Intoducing the Shell" on our video playlist. Please see your email for a URL to the playlist.
 
-Please note that these materials were imported and modified from the Software Carpentry "shell-novice" repository. 
-Their original CC license can be found [here](https://software-carpentry.org/license/). 
-Software Carpentry does not endorse HPCBio's version of this lesson. 
 
 ### Background
 
@@ -153,17 +151,17 @@ has just returned from a six-month survey of the
 [North Pacific Gyre](https://en.wikipedia.org/wiki/North_Pacific_Gyre),
 where she has been sampling gelatinous marine life in the
 [Great Pacific Garbage Patch](https://en.wikipedia.org/wiki/Great_Pacific_Garbage_Patch).
-She has 1520 samples that she's run through an assay machine to measure the relative abundance
+She has 1,520 samples that she's run through an assay machine to measure the relative abundance
 of 300 proteins.
-She needs to run these 1520 files through an imaginary program called `goostats.sh`.
+She needs to run these 1,520 files through an imaginary program called `goostats.sh`.
 In addition to this huge task, she has to write up results by the end of the month, so her paper
 can appear in a special issue of *Aquatic Goo Letters*.
 
-If Nelle chooses to run `goostats.sh` by hand using a GUI,
-she'll have to select and open a file 1520 times.
+If Nelle chooses to run the steps found in `goostats.sh` by hand using a GUI,
+she'll have to select options and open a file 1,520 times.
 If `goostats.sh` takes 30 seconds to run each file, the whole process will take more than 12 hours
-of Nelle's attention.
-With the shell, Nelle can instead assign her computer this mundane task while she focuses
+of Nelle's attention. Additionally, it will be nearly impossible for her to avoid mistakes running these steps 1,520 times.
+With the shell, Nelle can instead assign her computer this mundane task, which it will execute perfectly, while she focuses
 her attention on writing her paper.
 
 The next few lessons will explore the ways Nelle can achieve this.
