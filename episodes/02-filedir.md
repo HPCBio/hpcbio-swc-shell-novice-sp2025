@@ -32,6 +32,16 @@ structure while they're using terminal to navigate the system.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+### HPCBio Notes
+
+If you're signed up for an HPCBio workshop, **this episode/chapter is required** reading.
+You may watch a recording of this episode by viewing the video named 
+"Episode 2: Navigating Files and Directories" on our video playlist. 
+Please see your email for a URL to the playlist.
+
+
+### File System
+
 The part of the operating system responsible for managing files and directories
 is called the **file system**.
 It organizes our data into files,

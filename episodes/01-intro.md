@@ -20,7 +20,7 @@ exercises: 0
 
 ### HPCBio Notes
 If you're signed up for an HPCBio workshop, **this episode/chapter is required** reading. 
-You may watch a recording of this episode by viewing the video named "Episode 1: Intoducing the Shell" on our video playlist. Please see your email for a URL to the playlist.
+You may watch a recording of this episode by viewing the video named "Episode 1: Introducing the Shell" on our video playlist. Please see your email for a URL to the playlist.
 
 
 ### Background
