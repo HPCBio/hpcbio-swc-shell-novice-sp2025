@@ -20,6 +20,15 @@ exercises: 10
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+
+### HPCBio Notes
+If you're signed up for an HPCBio workshop, **this episode/chapter is required** reading.
+You may watch a recording of this episode by viewing the video named 
+ "Episode 4: Pipes and Filters"
+ on our video playlist. Please see your email for a URL to the playlist.
+
+
+### Word counting
 Now that we know a few basic commands,
 we can finally look at the shell's most powerful feature:
 the ease with which it lets us combine existing programs in new ways.
@@ -48,8 +57,10 @@ $ wc cubane.pdb
 ```
 
 `wc` is the 'word count' command:
-it counts the number of lines, words, and characters in files (returning the values
-in that order from left to right).
+it counts the number of lines, words, and bytes in files (returning the values
+in that order from left to right). Bytes is similar to characters, 
+but will not accurately represent the number of characters in all situations. 
+Use `wc -m` or `wc --chars` to specifically get the number of characters.
 
 If we run the command `wc *.pdb`, the `*` in `*.pdb` matches zero or more characters,
 so the shell turns `*.pdb` into a list of all `.pdb` files in the current directory:
