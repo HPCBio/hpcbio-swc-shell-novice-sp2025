@@ -310,15 +310,16 @@ Now test the commands below to reveal the difference between the two operators:
 
 ```bash
 $ echo hello > testfile01.txt
+$ echo hello > testfile01.txt
 ```
 
 and:
 
 ```bash
 $ echo hello >> testfile02.txt
+$ echo hello >> testfile02.txt
 ```
 
-Hint: Try executing each command twice in a row and then examining the output files.
 
 :::::::::::::::  solution
 
