@@ -21,6 +21,13 @@ exercises: 10
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+
+### HPCBio Notes
+If you're signed up for an HPCBio workshop, **this episode/chapter is optional, but recommended** reading.
+There is no recording available for this episode, so please follow along with the text-based lesson below.
+
+
+### Loops
 **Loops** are a programming construct which allow us to repeat a command or set of commands
 for each item in a list.
 As such they are key to productivity improvements through automation.

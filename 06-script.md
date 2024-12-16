@@ -19,6 +19,15 @@ exercises: 15
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+
+### HPCBio Notes
+If you're signed up for an HPCBio workshop, **this episode/chapter is required** reading.
+You may watch a recording of this episode by viewing the video named 
+ "Episode 6: Shell Scripts"
+ on our video playlist. Please see your email for a URL to the playlist.
+
+
+### Shell scripting
 We are finally ready to see what makes the shell such a powerful programming environment.
 We are going to take the commands we repeat frequently and save them in files
 so that we can re-run all those operations again later by typing a single command.

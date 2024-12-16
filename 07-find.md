@@ -20,6 +20,12 @@ exercises: 20
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
+### HPCBio Notes
+If you're signed up for an HPCBio workshop, **this episode/chapter is optional, but recommended** reading.
+There is no recording available for this episode, so please follow along with the text-based lesson below.
+
+
+### Pattern searching
 In the same way that many of us now use 'Google' as a
 verb meaning 'to find', Unix programmers often use the
 word 'grep'.

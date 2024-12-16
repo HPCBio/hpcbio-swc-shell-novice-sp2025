@@ -20,6 +20,13 @@ exercises: 20
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
+### HPCBio Notes
+If you're signed up for an HPCBio workshop, **this episode/chapter is required** reading. 
+You may watch a recording of this episode by viewing the video named
+ "Episode 3: Working With Files and Directories"
+ on our video playlist. Please see your email for a URL to the playlist.
+
+
 ## Creating directories
 
 We now know how to explore files and directories,
