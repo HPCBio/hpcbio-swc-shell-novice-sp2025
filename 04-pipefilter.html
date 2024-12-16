@@ -370,6 +370,16 @@ any input to process.</li>
 </div>
 </div>
 </div>
+<div class="section level3">
+<h3 id="hpcbio-notes">HPCBio Notes<a class="anchor" aria-label="anchor" href="#hpcbio-notes"></a></h3>
+<p>If you’re signed up for an HPCBio workshop, <strong>this
+episode/chapter is required</strong> reading. You may watch a recording
+of this episode by viewing the video named “Episode 4: Pipes and
+Filters” on our video playlist. Please see your email for a URL to the
+playlist.</p>
+</div>
+<div class="section level3">
+<h3 id="word-counting">Word counting<a class="anchor" aria-label="anchor" href="#word-counting"></a></h3>
 <p>Now that we know a few basic commands, we can finally look at the
 shell’s most powerful feature: the ease with which it lets us combine
 existing programs in new ways. We’ll start with the directory
@@ -401,8 +411,11 @@ ethane.pdb    octane.pdb     propane.pdb</code></pre>
 <pre class="output" tabindex="0"><code>20  156 1158 cubane.pdb</code></pre>
 </div>
 <p><code>wc</code> is the ‘word count’ command: it counts the number of
-lines, words, and characters in files (returning the values in that
-order from left to right).</p>
+lines, words, and bytes in files (returning the values in that order
+from left to right). Bytes is similar to characters, but will not
+accurately represent the number of characters in all situations. Use
+<code>wc -m</code> or <code>wc --chars</code> to specifically get the
+number of characters.</p>
 <p>If we run the command <code>wc *.pdb</code>, the <code>*</code> in
 <code>*.pdb</code> matches zero or more characters, so the shell turns
 <code>*.pdb</code> into a list of all <code>.pdb</code> files in the
@@ -470,6 +483,7 @@ appear to do anything.</p>
 holding down the control key (<kbd>Ctrl</kbd>) and pressing the letter
 <kbd>C</kbd> once: <kbd>Ctrl</kbd>+<kbd>C</kbd>. Then release both
 keys.</p>
+</div>
 </div>
 </div>
 </div>
