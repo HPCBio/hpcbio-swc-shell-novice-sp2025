@@ -1,5 +1,5 @@
 ---
-title: Finding Things
+title: Finding Things (optional)
 teaching: 25
 exercises: 20
 ---

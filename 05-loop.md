@@ -1,5 +1,5 @@
 ---
-title: Loops
+title: Loops (optional)
 teaching: 40
 exercises: 10
 ---
